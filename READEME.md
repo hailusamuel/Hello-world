@@ -3,3 +3,5 @@ so far so good!....
 # this is the new pull request
 #how to deal with changes in github
 fetch + merge = pull
+I am working now on my local pc
+# what is the change in the remote repository?
